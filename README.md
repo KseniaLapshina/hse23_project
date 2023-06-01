@@ -13,9 +13,9 @@
 
 Метка метилирования H3K4 связана с активной транскрипцией. Диметилирование H3K4 связано с активными и потенциально активными генами, в то время как триметилирование H3K4 в первую очередь является меткой, связанной с сайтом начала транскрипции. [Bernstein et al., 2002; Eissenberg, Shilatifard, 2010; Krogan et al., 2003; Ng et al., 2003]
 
-Среди выбранных нами для работы белков есть 3 функциональных группы: Histone modification write (KMT2A (MLL1), MLL2), Histone modification read (AIRE, ING4, RAG2, TAF3, WDR5, ZCWPW1) и Histone modification erase (PHF8).
+Среди выбранных нами для работы белков есть 3 функциональных группы: Histone modification write (KMT2A (MLL1), MLL2 (KMT2D)), Histone modification read (AIRE, ING4, RAG2, TAF3, WDR5, ZCWPW1) и Histone modification erase (PHF8).
 
-#### KMT2
+#### KMT2A
 "Белки гистон-лизин-метилтрансферазы 2 (KMT2) образуют мультимерные ферментативные комплексы, которые метилируют лизин 4 на гистоне H3 (H3K4) в элементах регуляции транскрипции в геноме." [Park et al., 2020] "KMT2A (MLL1) отвечает за создание моно-, ди- и триметилированного H3K4 посредством домена SET и взаимодействия с кофакторами." [Vallianatos, Iwase, 2015] "Из множества белков PHD (plant homeodomain) пальцев только PHD3 KMT2A семейства KMT2 проявляет свойства связывания H3K4." [Bochynska et al., 2018]
 #### MLL2
 "Здесь мы показываем, что Mll2, одна из шести метилтрансфераз H3K4 типа Set1/Trithorax у млекопитающих, необходима для триметилирования бивалентных промоторов в эмбриональных стволовых клетках мышей." [Denissov et al., 2014]
@@ -33,6 +33,39 @@
 "Здесь мы демонстрируем, что Zcwpw1 является считывателем H3K4me3, который необходим для DSB (double-strand break) репарации и синапсов в семенниках мышей." [Huang et al., 2020]
 #### PHF8
 "Белок PHD пальцев 8 (PHF8) принадлежит к семейству белков, содержащих домен JmJc, которые могут удалять метильные группы с остатков аргинина или лизина (…) идентифицированные считыватели H3K4me3 Sgf29, TRRAP, PHF8 (…)" [Vermeulen, et al., 2010] "PHF8 ассоциирован с гипометилированными генами рРНК" [Feng, et al., 2010]
+
+#### Комплексы
+Белок KMT2A входит в комплексы MLL-HCF, CHD8, COMPASS-like MLL1,2. Белок MLL2 входит в комплексы Set1/COMPASS,SWI/SNF (BAF),NuA4 (Tip60-p400) ,MLL2.
+
+Белки AIRE, RAG2 и ZCWPW1 в комплексы не входят. Белок ING4 входит в комплекс HBO1. Белок TAF3 входит в комплекс TFIID. Белок WDR5 входит в комплексы ATAC, NSL, RING2-L3MBTL2, MLL1/2, MLL3/4.
+
+Белок PHF8 входит в комплекс PHF8-TOPBP1.
+
+#### Экспрессия в тканях
+Белок KMT2A экспрессируется в головном мозге (мозжечке, полушариях мозжечка), яичнике, артериях (большеберцовой и аорте), большеберцовом нерве.
+Белок MLL2 экспрессируется в костном мозге, коже, селезенке, семенниках.
+
+Белок AIRE экспрессируется в мозге по GTEx и лимфатическом узле и тимусе по NCBI.
+Белок ING4 экспрессируется в полушариях мозжечка, мозжечке, щитовидной железе, эндоцервиксе, эктоцервиксе и матке.
+Белок RAG2 экспрессируется в почти только в щитовидной железе, но также понемногу в семенниках и костном мозге [ncbi]. По GTEx, есть на минимальном уровне везде, но в ощутимых размерах в щитовидной железе и немного в семенниках.
+Белок TAF3 экспрессируется в артериях, мозге и полушариях мозжечка.
+Белок WDR5 экспрессируется в семенниках, полушариях мозжечка, мозжечке.
+Белок ZCWPW1 экспрессируется в семенниках.
+
+Белок PHF8 экспрессируется в семенниках, яичнике, матке.
+
+#### Доменная структура
+В белке KMT2A наблюдаются домены SET_KMT2A_2B, ePHD_KMT2A, Bromo_ALL-1, PHD3_KMT2A, PHD1_KMT2A, FYRC, PHD2_KMT2A, zf-CXXC, FYRN.
+В белке MLL2 наблюдаются домены SET_KMT2D, ePHD2_KMT2D, HMG-box KMT2D, ePHD1_KMT2D, PHD5_KMT2D, PHD3_KMT2D, FYRC, PHD5_KMT2C_like, PHD_SF super family, PHD1_KMT2C_like, FYRN, PHA03247 super family (4). Общие: FYRC, FYRN.
+
+В белке AIRE наблюдаются домены PHA03247 super family (2), PHD_SF super family (2), HSR super family (2), SAND super family, PRK12323 super family.
+В белке ING4 наблюдаются домены ING_ING4, TNG2 super family.
+В белке RAG2 наблюдаются домены RAG2 super family, PHD_SF super family.
+В белке TAF3 наблюдаются домены PHD_TAF3, BTP, PTZ00449 super family, PRK12323 super family.
+В белке WDR5 наблюдаются домены WD40 super family (2), CaiC super family, PHA03247 super family.
+В белке ZCWPW1 наблюдаются домены PWWP super family(3), zf-CW super family.
+
+В белке PHF8 наблюдаются домены JHD, PHD_PHF8, cupin_RmlC, JmjC.
 
 ## Литература
 1. Bernstein, Bradley E., et al. "Methylation of histone H3 Lys 4 in coding regions of active genes." Proceedings of the National Academy of Sciences 99.13 (2002): 8695-8700.
