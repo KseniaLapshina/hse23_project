@@ -13,7 +13,7 @@
 
 Метка метилирования H3K4 связана с активной транскрипцией. Диметилирование H3K4 связано с активными и потенциально активными генами, в то время как триметилирование H3K4 в первую очередь является меткой, связанной с сайтом начала транскрипции. [Bernstein et al., 2002; Eissenberg, Shilatifard, 2010; Krogan et al., 2003; Ng et al., 2003]
 
-Среди выбранных нами для работы белков есть 3 функциональных группы: Histone modification write (KMT2A (MLL1), MLL2 (KMT2D)), Histone modification read (AIRE, ING4, RAG2, TAF3, WDR5, ZCWPW1) и Histone modification erase (PHF8).
+Среди выбранных нами для работы белков есть 3 функциональных группы: Histone modification write (KMT2A (MLL1), MLL2 (KMT2D)), Histone modification read (AIRE, ING4, RAG2, TAF3, WDR5, ZCWPW1, CCDC101) и Histone modification erase (PHF8).
 
 #### KMT2A Lysine methyltransferase 2A
 "Белки гистон-лизин-метилтрансферазы 2 (KMT2) образуют мультимерные ферментативные комплексы, которые метилируют лизин 4 на гистоне H3 (H3K4) в элементах регуляции транскрипции в геноме." [Park et al., 2020] "KMT2A (MLL1) отвечает за создание моно-, ди- и триметилированного H3K4 посредством домена SET и взаимодействия с кофакторами." [Vallianatos, Iwase, 2015] "Из множества белков PHD (plant homeodomain) пальцев только PHD3 KMT2A семейства KMT2 проявляет свойства связывания H3K4." [Bochynska et al., 2018]
