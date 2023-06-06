@@ -69,6 +69,30 @@
 
 В белке PHF8 наблюдаются домены JHD, PHD_PHF8, cupin_RmlC, JmjC.
 
+## Индивидуальная часть
+AIRE: https://github.com/KseniaLapshina/hse23_project_AIRE
+
+KMT2A:
+
+RAG2:
+
+PHF8:
+
+ING4:
+
+ZCWPW1:
+
+MLL2:
+
+TAF3:
+
+WDR5:
+
+CCDC101:
+
+## Групповая часть
+Презентация группы, таблица с -log(E-value) и код, использованный для построения тепловой карты, находятся в папке data.
+
 ## Литература
 1. Bernstein, Bradley E., et al. "Methylation of histone H3 Lys 4 in coding regions of active genes." Proceedings of the National Academy of Sciences 99.13 (2002): 8695-8700.
 2. Bochynska, Agnieszka, Juliane Lüscher-Firzlaff, and Bernhard Lüscher. "Modes of interaction of KMT2 histone H3 lysine 4 methyltransferase/COMPASS complexes with chromatin." Cells 7.3 (2018): 17.
