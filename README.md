@@ -74,7 +74,7 @@ AIRE: https://github.com/KseniaLapshina/hse23_project_AIRE
 
 KMT2A:
 
-RAG2:
+RAG2: https://github.com/robibistspark/hse23_indiv_proj/
 
 PHF8:
 
