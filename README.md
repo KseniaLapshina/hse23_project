@@ -90,7 +90,7 @@ MLL2:
 
 TAF3:
 
-WDR5:
+WDR5: https://github.com/DaryaSushkova/hse23_bio_project   
 
 CCDC101:
 
